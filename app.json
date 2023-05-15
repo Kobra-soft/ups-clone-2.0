@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "ups-clone-2.0",
+    "slug": "ups-clone2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ups3.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/ups3.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#59C1CC"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ups2.png",
+        "backgroundColor": "#59C1CC"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
